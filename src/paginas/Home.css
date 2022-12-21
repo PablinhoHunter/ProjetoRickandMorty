@@ -1,0 +1,26 @@
+
+#tituloHome{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 36px;
+}
+
+#subTituloHome{
+    padding-top: 15px;
+    text-align:left;
+    margin-left: 7%;
+}
+
+#cardTemporadaSeis{
+    position: relative;
+    left: 85px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 1300px;
+    height: 700px;
+    border-radius: 45px;
+}
+
+.paragrafoHome{
+    padding: 10px;
+}
