@@ -12,11 +12,11 @@
 }
 
 #cardTemporadaSeis{
-    position: relative;
-    left: 85px;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 1300px;
+    margin: auto;
+    display: block;
+    width: 1230px;
     height: 700px;
     border-radius: 45px;
 }

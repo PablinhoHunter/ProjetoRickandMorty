@@ -1,0 +1,15 @@
+#tituloHomenagem ,
+ .sora {
+    text-align: center;
+}
+
+.sora{
+    font-size: 30px;
+    color: red;
+}
+
+#fotoBia{
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+}

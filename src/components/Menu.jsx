@@ -12,7 +12,7 @@ function Menu() {
                         < Link to="/" className='link' >Home</Link>
                     </li>
                     <li>
-                        <Link to="/Elenco" className='link'>Elenco</Link>
+                        <Link to="/elenco" className='link'>elenco</Link>
                     </li>
                     <li >
                         <Link to="/Contato" className='link'>Homenagem</Link>
