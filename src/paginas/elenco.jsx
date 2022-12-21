@@ -21,7 +21,7 @@ const Elenco = () => {
         <>
         <Menu />
         <div>
-            <h3>Confira OS personagens E suas Variantes de Outros Universo Da Trama</h3>
+            <h1 id="titulo-elenco">Confira OS personagens E suas Variantes de Outros Universo Da Trama</h1>
         </div>
         <input placeholder="Digite o nome do personagem" type='search' onChange={e => setBusca(e.target.value)}/> 
             {personagemFiltrado.map(personagem =>
